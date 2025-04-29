@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
+- I am a student in Computer Science at IUT de Paris - Rives de Seine, joining EFREI next year in apprenticeship.
+
+- You can check my profile for the projects I have made or done during my student years
+
 - 📫 How to reach me **molawkaleonardo@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-molawka-43a68626b/](https://www.linkedin.com/in/leonardo-molawka-43a68626b/)
