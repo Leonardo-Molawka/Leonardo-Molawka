@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-- I am a student in Computer Science at IUT de Paris - Rives de Seine, joining EFREI next year in apprenticeship.
+- I am a student in Computer Science at IUT de Paris - Rives de Seine, preparing a Bachelor degree at the end of this year.
 
 - You can check my profile for the projects I have made or done during my student years
 
