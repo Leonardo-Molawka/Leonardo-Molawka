@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **molawkaleonardo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-molawka-43a68626b/](https://www.linkedin.com/in/leonardo-molawka/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-molawka/](https://www.linkedin.com/in/leonardo-molawka/)
 
 - ⚡ Fun fact **I like video games**
 
